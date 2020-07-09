@@ -1,3 +1,13 @@
+
+## 自动化构建
+
+- 工具准备
+  - github账号&仓库
+  - centos
+  - java sdk & nginx & jenkins
+
+[博客文字教程](http://gitby-leo.github.io/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
